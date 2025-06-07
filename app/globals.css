@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+  @apply scroll-smooth;
+  --color-primary: #4d6bfe;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
